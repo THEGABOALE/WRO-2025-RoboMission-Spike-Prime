@@ -9,6 +9,8 @@ Here you'll find the **current version** of the robot we are using for the compe
 
 >**Built using Pybricks**, a Python-based programming environment that runs directly on the LEGO SPIKE Prime hub. It allows full control over motors, sensors, and logic using MicroPython.
 
+It has been a large path but we made to complete all the circuit - 07/20/25
+
 ## Meet the team
 - **[Gabriel García]** - [THEGABOALE](https://github.com/THEGABOALE)
 - **[Steven Mejía]** - [StvMt323](https://github.com/SteMt323)
